@@ -1,14 +1,13 @@
 # Nick Nychyporuk
-> ## hard skills
+  
 
-* **HTML**
-* **CSS**
+<img src="img/img.jpg" width="400">
 
 > ## contact
 
 * _location_: **Rivne, Ukraine**
 * _telegram_: **@Nicko10**
-* _discord_: **Lazzat#1328**
+* _discord_: **Mykola Nychyporuk(NickNych)#4982**
 
 > ## info
 * I am pre-junior Fronted developer
@@ -17,6 +16,10 @@
 * I already know a little bit of HTML and CSS
 * I also teach JavaScript
 
+> ## hard skills
+
+* **HTML**
+* **CSS**
 
 > ## languages
 
@@ -24,7 +27,7 @@
 * Russian (native)
 * English (A2)
 > ## education
-
+-
 
 
 > ## experience
