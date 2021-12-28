@@ -1,13 +1,13 @@
 # Nick Nychyporuk
   
 
-<img src="img/img.jpg" width="400">
+<img src="img/img.jpg" height="240">
 
 > ## contact
 
 * _location_: **Rivne, Ukraine**
 * _telegram_: **@Nicko10**
-* _discord_: **Mykola Nychyporuk(NickNych)#4982**
+* _discord_: **MykolaNychyporuk(@NickNych)**
 
 > ## info
 * I am pre-junior Fronted developer
@@ -20,6 +20,8 @@
 
 * **HTML**
 * **CSS**
+* **Git**
+* **Github**
 
 > ## languages
 
@@ -27,9 +29,9 @@
 * Russian (native)
 * English (A2)
 > ## education
--
-
-
+* Code basics course HTML
+* Code basics course CSS
+* Code basics course Js
 > ## experience
 
 * Markdown & Git 
