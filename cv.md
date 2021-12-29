@@ -34,6 +34,5 @@
 * Code basics course Js
 > ## experience
 
-* Markdown & Git  (https://nicknych.github.io/rsschool-cv/cv)
 * HTML, CSS & Git Basics (https://nicknych.github.io/rsschool-cv/)
 
