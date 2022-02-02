@@ -34,7 +34,7 @@
 * Code basics course Js
 > ## experience
 
-`
+```
 function colourAssociation(array){
   let result = []
   for(let i = 0; i < array.length; i ++){
@@ -46,7 +46,7 @@ function colourAssociation(array){
   }
   return result
 }
-`
+```
 
 * HTML, CSS & Git Basics (https://nicknych.github.io/rsschool-cv/)
 
