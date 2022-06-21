@@ -34,5 +34,19 @@
 * Code basics course Js
 > ## experience
 
+```
+function colourAssociation(array){
+  let result = []
+  for(let i = 0; i < array.length; i ++){
+    let key = array[i][0];
+    let value = array[i][1];
+    let newObj = {
+      [key]: value,}
+    result.push(newObj)
+  }
+  return result
+}
+```
+
 * HTML, CSS & Git Basics (https://nicknych.github.io/rsschool-cv/)
 
