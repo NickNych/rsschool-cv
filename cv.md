@@ -3,13 +3,17 @@
 
 ## Contats
 *telegram:* nicko10
+
 *discord:* Mykola Nychyporuk(NickNych)
 
 ## SKills
-Html
-CSS
-Js
-GIT
+
+  Html
+
+  CSS
+
+  Js
+  GIT
 
 ## My code
 ```
