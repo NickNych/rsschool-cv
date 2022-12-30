@@ -6,6 +6,10 @@
 
 *discord:* Mykola Nychyporuk(NickNych)
 
+## About me
+
+Hello, I am Ukrainian pre-Junior Web developer. I am captivated in programming.
+I like to learn something new every day, and learn different ways how I could use it in practice.
 ## SKills
 
   Html
